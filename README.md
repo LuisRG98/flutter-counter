@@ -1,6 +1,6 @@
-# flutter_application_2
+# Flutter counter
 
-A new Flutter project.
+A simple application made with flutter to increase or decrease a counter
 
 ## Getting Started
 
